@@ -8,14 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=anggipradana&label=Views&color=c0392b&style=flat-square" alt="views"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LPT_(Master)-c0392b?style=flat-square" alt="LPT"/>
-  <img src="https://img.shields.io/badge/CPENT-c0392b?style=flat-square" alt="CPENT"/>
-  <img src="https://img.shields.io/badge/CRTO-c0392b?style=flat-square" alt="CRTO"/>
-  <img src="https://img.shields.io/badge/PNPT-c0392b?style=flat-square" alt="PNPT"/>
-  <img src="https://img.shields.io/badge/BSCP-c0392b?style=flat-square" alt="BSCP"/>
-</p>
-
 ---
 
 ## ⚔️ Offensive Security
