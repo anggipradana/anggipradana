@@ -130,3 +130,5 @@ I'm a lifelong learner in **Cyber Security**, currently working in the field I'm
 ---
 
 <p align="center"><i>"Be sharp, but don't hurt · Be fast, but don't overtake · Be smart, but don't patronize"</i></p>
+
+<!-- profile -->
